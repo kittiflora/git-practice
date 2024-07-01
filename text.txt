@@ -8,3 +8,5 @@ push to github version
 github version 2 ( create another machine and new ssh key)
 
 version 3 ( log in from another machine by that one key created from version 2)
+
+version 3.1 (log in simultaneously from flora machine which share the ssh key)
