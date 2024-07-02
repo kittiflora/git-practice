@@ -12,3 +12,5 @@ version 3 ( log in from another machine by that one key created from version 2)
 version 3.1 (log in simultaneously from flora machine which share the ssh key)
 
 connected from visual studio/ window 10 home
+
+connect simultaneously with a linux machine
